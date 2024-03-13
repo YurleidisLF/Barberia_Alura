@@ -1,0 +1,79 @@
+/*
+body{
+    background: #CCCCCC;
+}
+*/
+
+.titulo_principal{
+    padding-left: 30px;
+}
+
+#banner{
+    width: 100%;
+    height:560px;
+}
+
+.Principal{
+    background: #b1cdd4;
+    padding: 20px;
+}
+
+/*
+h1{
+    text-align: center;
+}
+*/
+
+.titulocentralizado{
+    text-align: center;
+}
+
+
+p{
+    text-align: center;
+    /*background: #cccccc;*/
+}   
+
+/*
+
+Aplica el color rojo a todo el strong (negrilla):
+
+strong{
+    color: red;
+}
+*/
+
+em strong{
+    color: blue;
+}
+
+#mision{
+    font-size: 20px;
+}
+
+.diferenciales{
+    background: #ffffff;
+    padding: 10px;
+}
+
+/*
+h2{
+    text-align: center;
+}
+*/
+
+.items{
+    font-style: italic;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 25%;
+
+}
+
+.imagenDiferenciales{
+    width: 50%;
+}
